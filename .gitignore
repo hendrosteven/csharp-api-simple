@@ -28,7 +28,7 @@ appsettings.*.json
 secrets.json
 
 # Docker
-**/Dockerfile
+Dockerfile
 **/docker-compose*.yml
 **/docker-compose*.override.yml
 
