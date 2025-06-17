@@ -27,11 +27,6 @@ artifacts/
 appsettings.*.json
 secrets.json
 
-# Docker
-Dockerfile
-**/docker-compose*.yml
-**/docker-compose*.override.yml
-
 # Logs
 *.log
 logs/
